@@ -1,0 +1,5 @@
+C:\Users\trzej_000\Google Drive\Politechniczne\BIAI\projekt\NNBackPropBanknoteAuth\NNBackPropBanknoteAuth\bin\Debug\NNBackPropBanknoteAuth.exe.config
+C:\Users\trzej_000\Google Drive\Politechniczne\BIAI\projekt\NNBackPropBanknoteAuth\NNBackPropBanknoteAuth\bin\Debug\NNBackPropBanknoteAuth.exe
+C:\Users\trzej_000\Google Drive\Politechniczne\BIAI\projekt\NNBackPropBanknoteAuth\NNBackPropBanknoteAuth\bin\Debug\NNBackPropBanknoteAuth.pdb
+C:\Users\trzej_000\Google Drive\Politechniczne\BIAI\projekt\NNBackPropBanknoteAuth\NNBackPropBanknoteAuth\obj\Debug\NNBackPropBanknoteAuth.exe
+C:\Users\trzej_000\Google Drive\Politechniczne\BIAI\projekt\NNBackPropBanknoteAuth\NNBackPropBanknoteAuth\obj\Debug\NNBackPropBanknoteAuth.pdb
